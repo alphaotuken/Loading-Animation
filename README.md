@@ -1,11 +1,15 @@
-# 💥 Loading Dots Animation Effects
-## [Watch it on youtube](https://youtu.be/LXE9_ur24ys)
-### 💥 Loading Dots Animation Effects
+# Loading Dots Animation
+### BY TALO
 
 - Loading Dots Animation Effects With HTML CSS & JavaScript
 - With animation Dots.
 - With a simple and minimalist interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+### Contact
 
-![preview img](/preview.png)
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is **free to use** and does not contains any license.
+
