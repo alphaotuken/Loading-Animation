@@ -1,4 +1,3 @@
-
 /*=============== ANIMATED DOTS JS ===============*/
 const dots = document.querySelector('.loading__dots')
 
